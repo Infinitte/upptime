@@ -7,10 +7,10 @@ sites:
     url: https://kabble.duckdns.org/
   - name: Home Assistant Arco
     url: https://peque.duckdns.org/
-  - name: Hacker News
+  - name: Pi-KVM
     url: https://kabble.duckdns.org:9943
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Guacamole
+    url: https://guacamole.kabble.duckdns.org/#/
 
 assignees:
   - Infinitte
