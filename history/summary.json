@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/kabble.duckdns.org",
     "slug": "home-assistant-mairena",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 848,
-    "timeDay": 647,
-    "timeWeek": 848,
-    "timeMonth": 848,
-    "timeYear": 848,
-    "dailyMinutesDown": {
-      "2022-07-02": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 799,
+    "timeDay": 508,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Assistant Arco",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-02": 684,
+      "2022-07-03": 112,
+      "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 346
     }
@@ -58,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-02": 684,
+      "2022-07-03": 112,
+      "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 338
     }
@@ -69,18 +69,16 @@
     "icon": "https://favicons.githubusercontent.com/guacamole.kabble.duckdns.org",
     "slug": "guacamole",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 595,
-    "timeDay": 583,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
-    "dailyMinutesDown": {
-      "2022-07-02": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 575,
+    "timeDay": 494,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
+    "dailyMinutesDown": {}
   }
 ]
