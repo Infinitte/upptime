@@ -4,10 +4,10 @@
     "url": "https://kabble.duckdns.org/",
     "icon": "https://favicons.githubusercontent.com/kabble.duckdns.org",
     "slug": "home-assistant-mairena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 879,
@@ -15,7 +15,9 @@
     "timeWeek": 839,
     "timeMonth": 879,
     "timeYear": 879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 1
+    }
   },
   {
     "name": "Home Assistant Arco",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/peque.duckdns.org",
     "slug": "home-assistant-arco",
     "status": "up",
-    "uptime": "72.90%",
+    "uptime": "73.34%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "72.90%",
-    "uptimeYear": "72.90%",
+    "uptimeMonth": "73.34%",
+    "uptimeYear": "73.34%",
     "time": 513,
     "timeDay": 502,
     "timeWeek": 506,
@@ -59,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-15": 639,
+      "2022-07-15": 991,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
