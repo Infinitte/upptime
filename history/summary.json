@@ -4,10 +4,10 @@
     "url": "https://kabble.duckdns.org/",
     "icon": "https://favicons.githubusercontent.com/kabble.duckdns.org",
     "slug": "home-assistant-mairena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 1162,
@@ -16,6 +16,7 @@
     "timeMonth": 1162,
     "timeYear": 1162,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-07-15": 32
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/peque.duckdns.org",
     "slug": "home-assistant-arco",
     "status": "up",
-    "uptime": "74.02%",
+    "uptime": "74.50%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "74.02%",
-    "uptimeYear": "74.02%",
+    "uptimeMonth": "74.50%",
+    "uptimeYear": "74.50%",
     "time": 869,
     "timeDay": 3070,
     "timeWeek": 1135,
@@ -61,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-16": 107,
+      "2022-07-16": 527,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -85,7 +86,7 @@
     "url": "https://guacamole.kabble.duckdns.org/#/",
     "icon": "https://favicons.githubusercontent.com/guacamole.kabble.duckdns.org",
     "slug": "guacamole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -96,6 +97,8 @@
     "timeWeek": 671,
     "timeMonth": 633,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   }
 ]
