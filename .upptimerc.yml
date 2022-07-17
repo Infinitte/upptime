@@ -8,7 +8,7 @@ sites:
   - name: Home Assistant Arco
     url: https://peque.duckdns.org/
   - name: Pi-KVM
-    url: https://kabble.duckdns.org:9943
+    url: https://pikvm.kabble.duckdns.org
   - name: Guacamole
     url: https://guacamole.kabble.duckdns.org/#/
 
