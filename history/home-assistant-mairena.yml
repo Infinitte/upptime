@@ -1,7 +1,7 @@
 url: https://kabble.duckdns.org/
-status: up
-code: 200
-responseTime: 974
-lastUpdated: 2023-05-01T13:02:00.923Z
+status: down
+code: 502
+responseTime: 605
+lastUpdated: 2023-05-01T14:50:31.941Z
 startTime: Thu Jun 30 2022 18:13:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
