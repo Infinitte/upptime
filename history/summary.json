@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.25%",
-    "time": 1659,
-    "timeDay": 5894,
-    "timeWeek": 3412,
-    "timeMonth": 2897,
-    "timeYear": 1768,
+    "time": 1658,
+    "timeDay": 5930,
+    "timeWeek": 3421,
+    "timeMonth": 2902,
+    "timeYear": 1752,
     "dailyMinutesDown": {
       "2023-09-06": 15,
       "2023-09-04": 17,
@@ -65,8 +65,7 @@
       "2022-11-22": 19,
       "2022-10-24": 18,
       "2022-10-06": 31,
-      "2022-10-03": 22,
-      "2022-10-02": 388
+      "2022-10-03": 22
     }
   },
   {
@@ -75,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/peque.duckdns.org.ico",
     "slug": "home-assistant-arco",
     "status": "down",
-    "uptime": "37.63%",
+    "uptime": "37.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.84%",
+    "uptimeYear": "22.81%",
     "time": 1167,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1511,
+    "timeYear": 1405,
     "dailyMinutesDown": {
-      "2023-10-01": 1295,
+      "2023-10-02": 61,
+      "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
@@ -377,8 +377,7 @@
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
-      "2022-10-03": 1440,
-      "2022-10-02": 840
+      "2022-10-03": 1440
     }
   },
   {
@@ -387,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.kabble.duckdns.org.ico",
     "slug": "pi-kvm",
     "status": "down",
-    "uptime": "49.72%",
+    "uptime": "49.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.64%",
-    "time": 1516,
-    "timeDay": 613,
-    "timeWeek": 561,
-    "timeMonth": 1003,
-    "timeYear": 1485,
+    "uptimeYear": "41.61%",
+    "time": 1518,
+    "timeDay": 2440,
+    "timeWeek": 813,
+    "timeMonth": 1064,
+    "timeYear": 1478,
     "dailyMinutesDown": {
-      "2023-10-01": 1295,
+      "2023-10-02": 61,
+      "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
@@ -633,8 +633,7 @@
       "2022-11-22": 20,
       "2022-10-13": 34,
       "2022-10-06": 30,
-      "2022-10-03": 28,
-      "2022-10-02": 436
+      "2022-10-03": 28
     }
   },
   {
@@ -644,17 +643,16 @@
     "slug": "guacamole",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.35%",
-    "time": 1399,
-    "timeDay": 3526,
-    "timeWeek": 2634,
-    "timeMonth": 1868,
-    "timeYear": 1443,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.36%",
+    "time": 1398,
+    "timeDay": 3537,
+    "timeWeek": 2633,
+    "timeMonth": 1871,
+    "timeYear": 1427,
     "dailyMinutesDown": {
-      "2023-10-01": 7,
       "2023-09-25": 16,
       "2023-09-06": 32,
       "2023-09-02": 40,
@@ -699,8 +697,7 @@
       "2022-12-23": 24,
       "2022-11-22": 25,
       "2022-10-21": 21,
-      "2022-10-13": 34,
-      "2022-10-02": 117
+      "2022-10-13": 34
     }
   }
 ]
