@@ -11,9 +11,9 @@
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.22%",
     "time": 1935,
-    "timeDay": 558,
-    "timeWeek": 2542,
-    "timeMonth": 2578,
+    "timeDay": 659,
+    "timeWeek": 2557,
+    "timeMonth": 2554,
     "timeYear": 2005,
     "dailyMinutesDown": {
       "2023-11-19": 36,
@@ -73,8 +73,7 @@
       "2023-01-01": 23,
       "2022-12-31": 24,
       "2022-12-27": 25,
-      "2022-12-23": 25,
-      "2022-11-22": 19
+      "2022-12-23": 25
     }
   },
   {
@@ -83,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/peque.duckdns.org.ico",
     "slug": "home-assistant-arco",
     "status": "up",
-    "uptime": "43.32%",
+    "uptime": "43.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "29.42%",
-    "time": 1714,
-    "timeDay": 369,
-    "timeWeek": 2083,
-    "timeMonth": 2595,
+    "time": 1715,
+    "timeDay": 713,
+    "timeWeek": 2115,
+    "timeMonth": 2602,
     "timeYear": 2184,
     "dailyMinutesDown": {
       "2023-11-13": 19,
@@ -368,8 +367,7 @@
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
-      "2022-12-01": 159,
-      "2022-11-22": 33
+      "2022-12-01": 159
     }
   },
   {
@@ -378,18 +376,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.kabble.duckdns.org.ico",
     "slug": "pi-kvm",
     "status": "down",
-    "uptime": "44.81%",
+    "uptime": "44.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.01%",
+    "uptimeYear": "27.74%",
     "time": 1458,
-    "timeDay": 395,
-    "timeWeek": 808,
-    "timeMonth": 770,
-    "timeYear": 1354,
+    "timeDay": 800,
+    "timeWeek": 670,
+    "timeMonth": 783,
+    "timeYear": 1350,
     "dailyMinutesDown": {
-      "2023-11-21": 65,
+      "2023-11-22": 66,
+      "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
@@ -671,8 +670,7 @@
       "2023-01-05": 16,
       "2022-12-31": 40,
       "2022-12-27": 24,
-      "2022-12-23": 24,
-      "2022-11-22": 20
+      "2022-12-23": 24
     }
   },
   {
@@ -681,15 +679,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/guacamole.kabble.duckdns.org.ico",
     "slug": "guacamole",
     "status": "up",
-    "uptime": "94.12%",
+    "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "29.27%",
+    "uptimeMonth": "32.56%",
     "uptimeYear": "91.94%",
-    "time": 1543,
-    "timeDay": 512,
-    "timeWeek": 2709,
-    "timeMonth": 1955,
+    "time": 1542,
+    "timeDay": 654,
+    "timeWeek": 2730,
+    "timeMonth": 1960,
     "timeYear": 1560,
     "dailyMinutesDown": {
       "2023-11-19": 16,
@@ -766,8 +764,7 @@
       "2023-01-05": 16,
       "2022-12-31": 16,
       "2022-12-27": 24,
-      "2022-12-23": 24,
-      "2022-11-22": 25
+      "2022-12-23": 24
     }
   }
 ]
