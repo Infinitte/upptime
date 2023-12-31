@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kabble.duckdns.org.ico",
     "slug": "home-assistant-mairena",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.62%",
+    "uptimeWeek": "64.97%",
     "uptimeMonth": "83.93%",
     "uptimeYear": "97.88%",
     "time": 1987,
-    "timeDay": 2225,
-    "timeWeek": 1093,
-    "timeMonth": 2606,
-    "timeYear": 2124,
+    "timeDay": 566,
+    "timeWeek": 1017,
+    "timeMonth": 2566,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2023-12-26": 719,
       "2023-12-25": 1440,
@@ -80,8 +80,7 @@
       "2023-01-11": 22,
       "2023-01-07": 23,
       "2023-01-05": 17,
-      "2023-01-01": 23,
-      "2022-12-31": 24
+      "2023-01-01": 23
     }
   },
   {
@@ -90,16 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/peque.duckdns.org.ico",
     "slug": "home-assistant-arco",
     "status": "up",
-    "uptime": "46.40%",
+    "uptime": "46.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "82.79%",
     "uptimeYear": "31.14%",
-    "time": 2028,
-    "timeDay": 5148,
-    "timeWeek": 2342,
-    "timeMonth": 2199,
-    "timeYear": 2394,
+    "time": 2027,
+    "timeDay": 486,
+    "timeWeek": 2333,
+    "timeMonth": 2159,
+    "timeYear": 2393,
     "dailyMinutesDown": {
       "2023-12-26": 19,
       "2023-12-20": 33,
@@ -368,8 +367,7 @@
       "2023-01-25": 30,
       "2023-01-20": 28,
       "2023-01-11": 22,
-      "2023-01-05": 34,
-      "2022-12-31": 41
+      "2023-01-05": 34
     }
   },
   {
@@ -378,18 +376,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.kabble.duckdns.org.ico",
     "slug": "pi-kvm",
     "status": "down",
-    "uptime": "41.62%",
+    "uptime": "41.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "17.34%",
-    "time": 1444,
-    "timeDay": 720,
-    "timeWeek": 527,
-    "timeMonth": 1072,
-    "timeYear": 1266,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "17.06%",
+    "time": 1443,
+    "timeDay": 557,
+    "timeWeek": 533,
+    "timeMonth": 1051,
+    "timeYear": 1264,
     "dailyMinutesDown": {
-      "2023-12-30": 61,
+      "2023-12-31": 68,
+      "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -707,8 +706,7 @@
       "2023-01-21": 162,
       "2023-01-20": 28,
       "2023-01-11": 21,
-      "2023-01-05": 16,
-      "2022-12-31": 40
+      "2023-01-05": 16
     }
   },
   {
@@ -717,15 +715,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/guacamole.kabble.duckdns.org.ico",
     "slug": "guacamole",
     "status": "up",
-    "uptime": "93.64%",
+    "uptime": "93.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.62%",
+    "uptimeWeek": "64.97%",
     "uptimeMonth": "83.93%",
     "uptimeYear": "90.60%",
     "time": 1640,
-    "timeDay": 613,
-    "timeWeek": 542,
-    "timeMonth": 2710,
+    "timeDay": 561,
+    "timeWeek": 544,
+    "timeMonth": 2668,
     "timeYear": 1730,
     "dailyMinutesDown": {
       "2023-12-26": 719,
@@ -810,8 +808,7 @@
       "2023-01-21": 161,
       "2023-01-20": 28,
       "2023-01-11": 21,
-      "2023-01-05": 16,
-      "2022-12-31": 16
+      "2023-01-05": 16
     }
   }
 ]
