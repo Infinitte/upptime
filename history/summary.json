@@ -75,8 +75,7 @@
       "2023-02-10": 58,
       "2023-02-07": 38,
       "2023-02-06": 50,
-      "2023-02-05": 27,
-      "2023-02-02": 42
+      "2023-02-05": 27
     }
   },
   {
@@ -89,7 +88,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "31.62%",
+    "uptimeYear": "31.63%",
     "time": 2098,
     "timeDay": 423,
     "timeWeek": 1643,
@@ -357,8 +356,7 @@
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
-      "2023-02-03": 1440,
-      "2023-02-02": 1440
+      "2023-02-03": 1440
     }
   },
   {
@@ -367,18 +365,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.kabble.duckdns.org.ico",
     "slug": "pi-kvm",
     "status": "down",
-    "uptime": "39.19%",
+    "uptime": "39.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.11%",
+    "uptimeYear": "8.10%",
     "time": 1266,
     "timeDay": 371,
     "timeWeek": 1388,
     "timeMonth": 914,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-02-01": 1438,
+      "2024-02-02": 52,
+      "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -721,8 +720,7 @@
       "2023-02-10": 50,
       "2023-02-07": 37,
       "2023-02-06": 49,
-      "2023-02-05": 21,
-      "2023-02-02": 34
+      "2023-02-05": 21
     }
   },
   {
@@ -730,19 +728,20 @@
     "url": "https://guacamole.kabble.duckdns.org/#/",
     "icon": "https://icons.duckduckgo.com/ip3/guacamole.kabble.duckdns.org.ico",
     "slug": "guacamole",
-    "status": "down",
-    "uptime": "93.99%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "90.64%",
+    "status": "up",
+    "uptime": "93.98%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "90.63%",
     "time": 1706,
-    "timeDay": 733,
-    "timeWeek": 1266,
-    "timeMonth": 2420,
-    "timeYear": 1850,
+    "timeDay": 705,
+    "timeWeek": 1217,
+    "timeMonth": 2388,
+    "timeYear": 1848,
     "dailyMinutesDown": {
-      "2024-02-01": 28,
+      "2024-02-02": 52,
+      "2024-02-01": 30,
       "2024-01-28": 67,
       "2024-01-21": 16,
       "2024-01-16": 15,
@@ -820,8 +819,7 @@
       "2023-02-10": 50,
       "2023-02-07": 37,
       "2023-02-06": 49,
-      "2023-02-05": 21,
-      "2023-02-02": 40
+      "2023-02-05": 21
     }
   }
 ]
