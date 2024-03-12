@@ -1,7 +1,7 @@
 url: https://peque.duckdns.org/
-status: up
-code: 200
-responseTime: 2913
-lastUpdated: 2024-03-12T08:59:19.339Z
+status: down
+code: 502
+responseTime: 583
+lastUpdated: 2024-03-12T19:55:46.128Z
 startTime: 2022-06-30T18:13:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
