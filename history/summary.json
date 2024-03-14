@@ -11,9 +11,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "97.93%",
     "time": 2104,
-    "timeDay": 4736,
-    "timeWeek": 1496,
-    "timeMonth": 2716,
+    "timeDay": 590,
+    "timeWeek": 1513,
+    "timeMonth": 2704,
     "timeYear": 2184,
     "dailyMinutesDown": {
       "2024-03-11": 44,
@@ -69,8 +69,7 @@
       "2023-04-06": 23,
       "2023-03-25": 16,
       "2023-03-24": 37,
-      "2023-03-17": 74,
-      "2023-03-15": 211
+      "2023-03-17": 74
     }
   },
   {
@@ -79,16 +78,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/peque.duckdns.org.ico",
     "slug": "home-assistant-arco",
     "status": "up",
-    "uptime": "52.74%",
+    "uptime": "52.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "42.27%",
-    "time": 2413,
-    "timeDay": 1095,
-    "timeWeek": 1029,
-    "timeMonth": 2322,
-    "timeYear": 2563,
+    "uptimeYear": "42.54%",
+    "time": 2401,
+    "timeDay": 424,
+    "timeWeek": 1035,
+    "timeMonth": 2251,
+    "timeYear": 2555,
     "dailyMinutesDown": {
       "2024-03-03": 16,
       "2024-03-02": 90,
@@ -315,8 +314,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -325,15 +323,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.kabble.duckdns.org.ico",
     "slug": "pi-kvm",
     "status": "up",
-    "uptime": "38.62%",
+    "uptime": "38.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "44.75%",
-    "uptimeYear": "3.07%",
+    "uptimeMonth": "48.03%",
+    "uptimeYear": "3.34%",
     "time": 1253,
-    "timeDay": 1872,
-    "timeWeek": 1164,
-    "timeMonth": 1981,
+    "timeDay": 722,
+    "timeWeek": 1167,
+    "timeMonth": 1988,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2024-03-11": 44,
@@ -688,8 +686,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -698,18 +695,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/guacamole.kabble.duckdns.org.ico",
     "slug": "guacamole",
     "status": "down",
-    "uptime": "92.30%",
+    "uptime": "92.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.27%",
-    "uptimeYear": "87.19%",
+    "uptimeMonth": "54.98%",
+    "uptimeYear": "86.91%",
     "time": 1785,
-    "timeDay": 360,
-    "timeWeek": 1121,
-    "timeMonth": 1235,
-    "timeYear": 1928,
+    "timeDay": 421,
+    "timeWeek": 1129,
+    "timeMonth": 1234,
+    "timeYear": 1920,
     "dailyMinutesDown": {
-      "2024-03-13": 61,
+      "2024-03-14": 60,
+      "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
@@ -794,8 +792,7 @@
       "2023-04-06": 21,
       "2023-03-25": 15,
       "2023-03-24": 21,
-      "2023-03-17": 73,
-      "2023-03-15": 202
+      "2023-03-17": 73
     }
   }
 ]
